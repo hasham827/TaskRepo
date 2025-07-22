@@ -1,16 +1,26 @@
-# task
+# 🛍️ Flutter Fake Store App
 
-A new Flutter project.
+A simple e-commerce demo app built with Flutter 3.x. This app fetches product data from the [Fake Store API](https://fakestoreapi.com), displays products in a beautiful grid layout, and allows users to favorite items with local persistence.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen | Favorites Screen | Categories Filter |
+|-------------|------------------|-------------------|
+| ![Home](screenshots/home.png) | ![Favorites](screenshots/favorites.png) | ![Categories](screenshots/categories.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- ✅ **Fetch product list** from [Fake Store API](https://fakestoreapi.com)
+- ✅ Display products in a responsive **grid view**
+- ✅ **Favorite products**, with local persistence using `SharedPreferences`
+- ✅ **Category filtering** for better product discovery
+- ✅ Smooth **animations** and **custom widgets** for a better user experience
+
+---
+
+## 📂 Project Structure
+
