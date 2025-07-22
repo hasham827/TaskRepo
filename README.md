@@ -6,7 +6,7 @@ A simple e-commerce demo app built with Flutter 3.x. This app fetches product da
 
 ## 📸 Screenshots
 
-| Home Screen | Favorites Screen | Categories Filter |
+| Home Screen | All Product Screen | Product Detail Page |
 |-------------|------------------|-------------------|
 | ![Home](screenshots/home.png) | ![Favorites](screenshots/favorites.png) | ![Categories](screenshots/categories.png) |
 
